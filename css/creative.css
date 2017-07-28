@@ -229,7 +229,7 @@ header .header-content .header-content-inner p {
   -o-background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  background-image: url('../img/header.jpg');
+  background-image: url('../img/header2.jpg');
   text-align: center;
   color: white;
 }
@@ -376,7 +376,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: white;
-  background-color: #ee4b28;
+  background-color: #a30000;
   border-color: #ed431f;
 }
 .btn-primary:active,
@@ -418,6 +418,10 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-xl {
   padding: 15px 30px;
+}
+
+.btn-s {
+  padding: 0px 10px
 }
 ::-moz-selection {
   color: white;
